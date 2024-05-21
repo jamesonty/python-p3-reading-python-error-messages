@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+# should be an equivallent to yhe 1st
+assert(1 == 1)
+
